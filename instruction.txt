@@ -1,0 +1,10 @@
+1: created a npm package.json using npm init -y
+
+2: then installed the necessary packages like express(creating a server) , ejs , socket.io(for continuous server connection) using command like npm i express ejs socket.io
+
+3: then added the uuid for creating a dynamic url by npm i uuid
+
+4: added nodemon for auto server refresh as a dev dependency npm i --save-dev nodemon
+
+
+
